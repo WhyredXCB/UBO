@@ -80,8 +80,8 @@ coinhub.wiki#@#div[id^="ezoic-pub-ad-"]
 *$script,domain=coinhub.wiki,redirect-rule=noopjs
 @@||vlitag.com^$domain=leaveadvice.com
 @@||vlitag.com^$domain=leaveadvice.com|esopress.com
-atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu##^script:has-text(htmls)
-atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu##+js(aeld,load,htmls)
+atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu,saweuloen.com##^script:has-text(htmls)
+atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu,saweuloen.com##+js(aeld,load,htmls)
 @@||doge25.in^$generichide
 
 
