@@ -1,0 +1,306 @@
+||tlnuxuhlobn.xyz^$important
+||kcddjusnew.com^$important
+||iqyqqfduxeql.com^$important
+||glitch.me^$important
+||qdagihwi.xyz^$important
+||burningpushing.info^$important
+||inppfinder.info^$important
+||vemsqyhpeur.com^$important
+||chatbro.com^$important
+||acedirect.net^$important
+||rrkgjtdn.com^$important
+||yevcjqgi.com^$important
+||sharethis.com^$3p
+||timewall.io^$3p
+||bmcdn5.com^$important
+||examtadka.com/ads/*$important
+||pubxmedia.com^$important
+||adxfire.com^$important
+||zatuzwydzhteaj.com^$important
+||lufbogazixz.com^$important
+||evilsbedont.de:4444^$important
+||pvggjempoyubp.xyz^$important
+||quantcast.com^$important
+||izeiiemb.com^$important
+||mjrhficjcbf.com^$important
+||gosixs.com/c/*$important
+||belgud.com^$important
+||wqjbldnnceroue.com^$important
+||jiordgxkpglzm.com^$important
+||gather.network^$important
+||muzotur.info^$important
+||gibevay.ru^$important
+||adnetasia.com^$important
+||xymusyy.ru^$important
+||webplexmedia.de^$important
+||dawamya.ru^$important
+||publishwave.com^$important
+||rrrdwltsqsqotu.xyz^$important
+||livechatinc.com^$important
+||ebvkmavxibi.com^$important
+||sdlocujcelv.com^$important
+||adoxen.click^$important
+||pureislamicart.com^$important
+||smart-inpage.com^$important
+||rswykskkytx.com^$important
+||bewvgekx.com^$important
+||ccksdwtuzmadx.com^$important
+||itdqdqgxdgkhv.com^$important
+||cryptonationfaucet.com/cryptonationfaucet.js$script,1p,important
+||clickio.mgr.consensu.org^$script,important
+||jijpbehzw.com^$important
+||npcwfrohnshriw.com^$important
+||wteicogfeyhjk.com^$important
+||mpaphqjb.com^$important
+||yajlpetccbodq.com^$important
+||ruogesfshygsj.com^$important
+||prbtqjujwzwepv.com^$important
+@@||cdn.aimtell.com^$domain=timewall.io
+@@||ads.lootcash.vip^$popup
+@@||flyad.vip^$1p
+@@||adnews.me^$1p
+
+bitzite.com,atefaucet.com,coinsvalue.net,freetrx.fun,adsy.pw,playstore.pw,freecc.click,nerdiess.com,cryptoearnfaucet.com,freeoseocheck.com,cookinguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com,cryptosh.pro,bitcosite.com,trangchu.news,techacode.com##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+nerdiess.com##+js(set, checkerr, true)
+feyorra.top,btcbunch.com##+js(acis, addEventListener, document.getElementById)
+esopress.com,leaveadvice.com,homeairquality.org##+js(no-fetch-if, googlesyndication)
+*$script,redirect-rule=noopjs,domain=mdn.lol|adsy.pw|playstore.pw|freetrx.fun
+@@*$ghide,domain=softwaresolutionshere.com|c2g.at|tii.la
+cryptofy.vip##^script:has-text(/adsBlocked|lipfoJyjxTvn/)
+coinhub.wiki#@#div[id^="ezoic-pub-ad-"]
+freetrx.fun##div#x5b9
+@@||web1s.com^
+@@||vlitag.com^$domain=homeairquality.org|leaveadvice.com
+||mjtwoqupix.com^$important
+||ujhhfgbbhs.com^$important
+||gnzfwmnfiy.com^$important
+||lkyrxsfsust.com^$important
+
+coinhub.wiki#@#div[id^="ezoic-pub-ad-"]
+*$script,domain=coinhub.wiki,redirect-rule=noopjs
+@@||vlitag.com^$domain=leaveadvice.com
+@@||vlitag.com^$domain=leaveadvice.com|esopress.com
+atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu##^script:has-text(htmls)
+atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu##+js(aeld,load,htmls)
+@@||doge25.in^$generichide
+
+
+claimlite.club,blog.freeoseocheck.com,blog.coinsvalue.net,blog.cookinguide.net,claimcoin.us,blog.wiki-topia.com,multiearn.in,dubaifaucet.site,bitlinks.pw,letsiu.com,carsmania.net,forexscp.com,drcoin.site,coins100s.fun,globlenews.in,minersfaucet.xyz,flycrypto.tn,faucet-coinsum.online,btc25.org##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+kiktu.com#@#button
+kiktu.com#@#button_selector
+kiktu.com#@#.button-class
+banaraswap.in,techcyan.com#@##xx[style="display: flex;"]:not(:has(a[href*=".click"]))
+banaraswap.in,techcyan.com#@#[style="display: flex;"]:matches-css(position: absolute):not(:has(a[href*=".click"]))
+# claimlite.club,blog.freeoseocheck.com,blog.coinsvalue.net,blog.cookinguide.net,claimcoin.us,blog.wiki-topia.com,multiearn.in,dubaifaucet.site,bitlinks.pw,letsiu.com,carsmania.net,forexscp.com,drcoin.site,coins100s.fun,globlenews.in,minersfaucet.xyz,flycrypto.tn##^script:has-text(/TestAd|AdBlock|kcolbax|onerror/)
+# wheelofgold.com
+@@||tii.la^$generichide
+@@||challenges.cloudflare.com/turnstile/v0/api.js?compat=recaptcha$script,domain=mdn.lol
+@@||www.google.com/recaptcha/api2/aframe^$subdocument,domain=mdn.lol
+
+blog.freeoseocheck.com,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinscap.info,blog.cookinguide.net,blog.webfreetools.net,blog.greenenez.com,blog.coinsvalue.net,cryptosh.pro##+js(aeld, load, htmls)
+blog.freeoseocheck.com,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinscap.info,blog.cookinguide.net,blog.webfreetools.net,blog.greenenez.com,blog.coinsvalue.net,cryptosh.pro##^script:has-text(htmls)
+
+blog.freeoseocheck.com##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+blog.coinsvalue.net##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+blog.cookinguide.net##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+blog.wiki-topia.com##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+blog.cryptowidgets.net##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+blog.insurancegold.in##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+*$script,domain=blog.insurancegold.in|blog.coinsvalue.net|blog.freeoseocheck.com|blog.cookinguide.net|blog.cryptowidgets.net|blog.wiki-topia.com,redirect-rule=noopjs
+
+@@||stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css^$stylesheet,domain=mdn.lol
+@@||s.clickiocdn.com/t/228843/360_light.js^$script,domain=mdn.lol
+@@||d3u598arehftfk.cloudfront.net/prebid_hb_1642_2871.js^$script,domain=mdn.lol
+@@||blog.mdn.lol/50145/5e907804ebe8ac12847b809ef5dcf39f55f9bccf1747aae01dc5da99879ac2bc.js^$script,domain=mdn.lol
+@@||blog.mdn.lol/216222/b63dc9fbd6cf41632490e607378de4c44c09657b8ef6df13bd27af9a46042ee8.js^$script,domain=mdn.lol
+@@||clickio.mgr.consensu.org/t/consent_228843.js^$script,domain=mdn.lol
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js^$script,domain=mdn.lol
+
+viefaucet.com#@#+js(aeld, n&&n) 
+viefaucet.com##+js(aopr, coinzilla_display)
+
+# Speed Up Time
+mobitaak.com,proviralhost.com,blog-everything.com,forex.diudemy.com,www.diudemy.com,mdn.lol,nerdiess.com,link.diudemy.com,finance.diudemy.com,videolyrics.in,adarima.org,dogeearn.com##+js(nano-sib)
+
+# Other Filter
+@@||cleverwebserver.com^$domain=madsibha.fun|techydino.net
+@@||cdn.hooliganmedia.com/hmads0.js$domain=techydino.net
+@@||googlesyndication.com^$domain=madsibha.fun
+@@*$ghide,domain=madsibha.fun
+@@||doubleclick.net^$domain=wiki-topia.com
+@@||googletagmanager.com^$domain=wiki-topia.com
+@@||googlesyndication.com^$domain=wiki-topia.com
+@@||surfe.pro^$domain=wiki-topia.com
+@@||arc.io^$domain=wiki-topia.com
+@@||gogshorterall.tk^$domain=promo-visits.site|satoshi-win.xyz
+@@||promo-visits.site/folder/ad-test/*$domain=satoshi-win.xyz
+@@||promo-visits.site/folder/ad-test/*$1p
+@@||wpadmngr.com^$domain=faucetcrypto.net
+shinchu.net#@##wpsafe-generate, #wpsafe-link:style(display: block !important;)
+shinchu.net#@##wpsafelink-countdown, #wpsafelinkhuman, div[id^="wpsafe-wait"]
+https://blog.cryptowidgets.net/post/what-is-litecoin
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
+@@||js.wpadmngr.com/static/adManager.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
+@@||a.pub.network/crewbase-net/pubfig.min.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
+@@||scripts.cleverwebserver.com/081c09225f5f0932d5dff03f505f3089.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
+@@||request-global.czilladx.com^$xhr,domain=faucetcrypto.net|freesolana.top
+@@||cleverwebserver.com^$domain=uniqueten.net|ultraten.net|thumb8.net|thumb9.net|shinchu.net|shinbhu.net|crewbase.net|crewus.net|topcryptoz.net|allcryptoz.net|blog.wiki-topia.com|btc25.org|homeairquality.org|promo-visits.site|wiki-topia.com|blog.coinsvalue.net|blog.coinsvalue.net
+@@/fuckadblock.js$script,domain=shinchu.net|shinbhu.net|blog.wiki-topia.com|btc25.org|homeairquality.org|mdn.lol|claimprocoin.com|claimlite.club|anhautobot.com|blog.wiki-topia.com|promo-visits.site|wiki-topia.com|blog.coinsvalue.net
+@@||banner.infoey.com/adbanner.png$image,domain=allcryptoz.net|crewbase.net|crewus.net|shinbhu.net|shinchu.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net
+allcryptoz.net,crewbase.net,crewus.net,shinbhu.net,shinchu.net,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net##+js(nosiif, console)
+
+! 2023-03-01 https://adarima.org
+adarima.org##.adb-top > center
+adarima.org###wpsafelink-landing > center
+adarima.org##.text-center.wpsafe-top > center
+adarima.org##.g > tbody > tr > th
+adarima.org##.g
+
+! 2023-03-01 https://lemeclaim.xyz
+lemeclaim.xyz##.row > center
+lemeclaim.xyz##.LytDeXZpOFhLK1k9
+lemeclaim.xyz##center:nth-of-type(4)
+lemeclaim.xyz##center:nth-of-type(3)
+
+! 2023-03-01 https://adarima.org
+adarima.org##center:nth-of-type(2)
+adarima.org##.adb-top > center
+adarima.org###wpsafelink-landing > center
+adarima.org##.text-center.wpsafe-top > center
+adarima.org##.g > tbody > tr > th
+adarima.org##.g
+
+! 2023-03-01 https://dogeearn.com
+dogeearn.com##.adb-top > center
+dogeearn.com###wpsafelink-landing > center
+dogeearn.com##.text-center.wpsafe-top > center
+dogeearn.com###wpsafegenerate > center
+
+! 2023-03-01 https://cryptoclaim.club
+cryptoclaim.club##.row > center
+cryptoclaim.club##center:nth-of-type(4)
+cryptoclaim.club##hr:nth-of-type(1)
+
+! 2023-03-01 https://links.medipost.org
+links.medipost.org##div.adsbyvli:nth-of-type(1)
+links.medipost.org##div.adsbyvli:nth-of-type(2)
+links.medipost.org##div.adsbyvli:nth-of-type(3)
+links.medipost.org##div.adsbyvli:nth-of-type(6)
+
+! 2023-03-01 https://blog.insurancegold.in
+blog.insurancegold.in##div.form-group > div
+
+! 2023-03-01 https://www.cryptoshi.club
+www.cryptoshi.club##.row > center
+
+! 2023-03-01 https://azmath.info
+||azmath.info/wp-content/uploads/2022/03/Machine-Learning-Love-Poem.jpg$image
+||azmath.info/wp-content/uploads/2022/03/Machine-Learning-Love-Poem.jpg$image
+azmath.info##.text-content
+||azmath.info/wp-content/uploads/2022/03/Machine-Learning-Love-Poem.jpg$image
+azmath.info##.text-center
+||azmath.info/wp-content/uploads/2022/03/Machine-Learning-Love-Poem.jpg$image
+||azmath.info/wp-content/uploads/2022/03/Machine-Learning-Love-Poem2.jpg$image
+||azmath.info/wp-content/uploads/2022/03/Machine-Learning-Love-Poem.jpg$image
+
+
+! 2023-03-01 https://luckydice.net
+luckydice.net##center:nth-of-type(2)
+luckydice.net##.adb-top > center
+luckydice.net###wpsafelink-landing > center
+luckydice.net##.text-center.wpsafe-top > center
+luckydice.net###wpsafegenerate > center
+
+! 2023-03-01 https://go.techgeek.digital
+go.techgeek.digital##center > font > p
+go.techgeek.digital##.text-center > h2
+go.techgeek.digital##.text-center > p
+go.techgeek.digital##.text-center > .dot
+go.techgeek.digital##.about
+
+
+! 2023-03-02 https://claimbits.net
+claimbits.net##.\35 ea6cf49708b38ce9eec71d7
+
+! 2023-03-06 https://medipost.org
+medipost.org##.mx-auto.col-md-12 > center > p
+medipost.org###adlateral2
+
+! 2023-03-07 https://mcrypto.club
+||cryptocoinsad.com/ads/show_slider.php?a=mcrypto.club$subdocument
+||cryptocoinsad.com/ads/show_slider.php?a=mcrypto.club$subdocument
+||mcrypto.club/wp-content/uploads/2022/10/xrpnft*.jpg$image
+mcrypto.club##.single-content.entry-content > div
+||mcrypto.club/wp-content/uploads/2022/10/xrpnft*.jpg$image
+||mcrypto.club/wp-content/uploads/2022/10/xrpnft*.jpg$image
+
+! 2023-03-07 https://claimbits.net
+claimbits.net###wcfloatDiv4
+
+! 2023-03-07 https://mcrypto.club
+mcrypto.club##.wp-block-latest-posts.wp-block-latest-posts__list
+mcrypto.club##.sidebar-link-style-normal.sidebar-slug-sidebar-primary.widget-area.primary-sidebar
+mcrypto.club##.alignwide.entry-related-inner-content
+mcrypto.club##.comments-area
+mcrypto.club##.site-footer-row-container-inner
+mcrypto.club##.site-header-row-layout-standard.site-header-focus-item.site-header-row-container.site-main-header-wrap > .site-header-row-container-inner
+mcrypto.club##.single-content.entry-content > p
+||cryptocoinsad.com/ads/show.php?a=248860&b=390711$subdocument
+
+! 2023-03-08 https://healthy4pepole.com
+healthy4pepole.com##h1:nth-of-type(1)
+
+! 2023-03-12 https://firefaucet.win
+firefaucet.win##center > .\35 add31a9d8189a00104b7bfc
+firefaucet.win##.sticky-ad-728x90.hide-on-small-only
+
+! 2023-03-14 https://cryptoflare.cc
+cryptoflare.cc##.text-left
+
+! 2023-03-14 https://cryptofy.club
+cryptofy.club##.row > center
+cryptofy.club##center:nth-of-type(3)
+cryptofy.club###about
+cryptofy.club##.azVPcjBzZWt0elU9
+||cryptocoinsad.com/ads/show.php?a=254473&b=395228$subdocument
+
+! 2023-03-15 https://cryptoclaim.club
+cryptoclaim.club###about
+
+! 2023-03-15 https://cryptoshi.club
+cryptoshi.club##.row > center
+
+! 2023-03-25 https://exeo.app
+exeo.app##.info
+
+! 2023-03-26 https://webhostingpost.com
+webhostingpost.com##p
+
+! 2023-03-26 https://mdn.lol
+mdn.lol##center:nth-of-type(4)
+
+! 2023-03-28 https://luckydice.net
+luckydice.net##.text-center.wpsafe-top > div
+luckydice.net##.panel-body > .row
+
+! 2023-03-28 https://freetrx.fun
+||cryptocoinsad.com/ads/show.php?a=251910&b=392997$subdocument,domain=freetrx.fun
+
+! 2023-03-28 https://dubaifaucet.site
+dubaifaucet.site##svg
+
+! 2023-03-30 https://cdn1.theconomy.me
+cdn1.theconomy.me##p:nth-of-type(2)
+
+! 2023-03-30 https://nguyenvanbao.com
+nguyenvanbao.com##div:nth-of-type(5)
+nguyenvanbao.com##div:nth-of-type(6)
+nguyenvanbao.com##div:nth-of-type(4)
+
+! 2023-03-31 https://blogbux.net
+blogbux.net###overlay
+
+! 2023-04-01 https://btc25.org
+||locker-cpa.eu/iframe/a34c48c0-d0cc-11ed-b8ef-81e4be4bbf5d?if=1$subdocument
+
