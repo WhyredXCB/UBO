@@ -89,6 +89,10 @@ claimlite.club,blog.freeoseocheck.com,blog.coinsvalue.net,blog.cookinguide.net,c
 mdn.lol^$csp=script-src *
 mdn.lol#@#+js()
 @@||d3u598arehftfk.cloudfront.net/prebid_$script,domain=mdn.lol
+clickiocdn.com/*log$script,important,from=mdn.lol,badfilter
+mdn.lol^$csp=script-src *
+mdn.lol#@#+js()
+@@||d3u598arehftfk.cloudfront.net/prebid_$script,domain=mdn.lol
 kiktu.com#@#button
 kiktu.com#@#button_selector
 kiktu.com#@#.button-class
