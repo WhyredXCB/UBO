@@ -85,7 +85,7 @@ atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4eve
 @@||doge25.in^$generichide
 
 
-claimlite.club,blog.freeoseocheck.com,blog.coinsvalue.net,blog.cookinguide.net,claimcoin.us,blog.wiki-topia.com,multiearn.in,dubaifaucet.site,bitlinks.pw,letsiu.com,carsmania.net,forexscp.com,drcoin.site,coins100s.fun,globlenews.in,minersfaucet.xyz,flycrypto.tn,faucet-coinsum.online,btc25.org,saweuloen.com,playstore.pw##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
+claimlite.club,blog.freeoseocheck.com,blog.coinsvalue.net,blog.cookinguide.net,claimcoin.us,blog.wiki-topia.com,multiearn.in,dubaifaucet.site,bitlinks.pw,letsiu.com,carsmania.net,forexscp.com,drcoin.site,coins100s.fun,globlenews.in,minersfaucet.xyz,flycrypto.tn,faucet-coinsum.online,btc25.org,saweuloen.com,playstore.pw,adsy.pw##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
 mdn.lol^$csp=script-src *
 mdn.lol#@#+js()
 @@||d3u598arehftfk.cloudfront.net/prebid_$script,domain=mdn.lol
