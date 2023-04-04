@@ -80,8 +80,8 @@ coinhub.wiki#@#div[id^="ezoic-pub-ad-"]
 *$script,domain=coinhub.wiki,redirect-rule=noopjs
 @@||vlitag.com^$domain=leaveadvice.com
 @@||vlitag.com^$domain=leaveadvice.com|esopress.com
-atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu,saweuloen.com##^script:has-text(htmls)
-atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu,saweuloen.com##+js(aeld,load,htmls)
+atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu,saweuloen.com,coinzsack.com##^script:has-text(htmls)
+atefaucet.com,cryptofy.vip,oldcrypto.website,doge25.in,ourcoincash.xyz,magic4ever.eu,saweuloen.com,coinzsack.com##+js(aeld,load,htmls)
 @@||doge25.in^$generichide
 
 
@@ -98,14 +98,14 @@ kiktu.com#@#button_selector
 kiktu.com#@#.button-class
 banaraswap.in,techcyan.com#@##xx[style="display: flex;"]:not(:has(a[href*=".click"]))
 banaraswap.in,techcyan.com#@#[style="display: flex;"]:matches-css(position: absolute):not(:has(a[href*=".click"]))
-# claimlite.club,blog.freeoseocheck.com,blog.coinsvalue.net,blog.cookinguide.net,claimcoin.us,blog.wiki-topia.com,multiearn.in,dubaifaucet.site,bitlinks.pw,letsiu.com,carsmania.net,forexscp.com,drcoin.site,coins100s.fun,globlenews.in,minersfaucet.xyz,flycrypto.tn##^script:has-text(/TestAd|AdBlock|kcolbax|onerror/)
+# claimlite.club,blog.freeoseocheck.com,blog.coinsvalue.net,blog.cookinguide.net,claimcoin.us,blog.wiki-topia.com,multiearn.in,dubaifaucet.site,bitlinks.pw,letsiu.com,carsmania.net,forexscp.com,drcoin.site,coins100s.fun,globlenews.in,minersfaucet.xyz,flycrypto.tn,coinzsack.com##^script:has-text(/TestAd|AdBlock|kcolbax|onerror/)
 # wheelofgold.com
 @@||tii.la^$generichide
 @@||challenges.cloudflare.com/turnstile/v0/api.js?compat=recaptcha$script,domain=mdn.lol
 @@||www.google.com/recaptcha/api2/aframe^$subdocument,domain=mdn.lol
 
-blog.freeoseocheck.com,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinscap.info,blog.cookinguide.net,blog.webfreetools.net,blog.greenenez.com,blog.coinsvalue.net,cryptosh.pro##+js(aeld, load, htmls)
-blog.freeoseocheck.com,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinscap.info,blog.cookinguide.net,blog.webfreetools.net,blog.greenenez.com,blog.coinsvalue.net,cryptosh.pro##^script:has-text(htmls)
+blog.freeoseocheck.com,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinscap.info,blog.cookinguide.net,blog.webfreetools.net,blog.greenenez.com,blog.coinsvalue.net,cryptosh.pro,coinzsack.com##+js(aeld, load, htmls)
+blog.freeoseocheck.com,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.coinscap.info,blog.cookinguide.net,blog.webfreetools.net,blog.greenenez.com,blog.coinsvalue.net,cryptosh.pro,coinzsack.com##^script:has-text(htmls)
 
 blog.freeoseocheck.com##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
 blog.coinsvalue.net##^script:has-text(/TestAd|fakeAd|AdBlock|_0x|x5b9|download|onerror|adsBlocked|adsurfebe|alert|lipfoJyjxTvn/)
