@@ -146,16 +146,16 @@ mobitaak.com,proviralhost.com,blog-everything.com,forex.diudemy.com,www.diudemy.
 shinchu.net#@##wpsafe-generate, #wpsafe-link:style(display: block !important;)
 shinchu.net#@##wpsafelink-countdown, #wpsafelinkhuman, div[id^="wpsafe-wait"]
 https://blog.cryptowidgets.net/post/what-is-litecoin
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
-@@||js.wpadmngr.com/static/adManager.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
-@@||a.pub.network/crewbase-net/pubfig.min.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
-@@||scripts.cleverwebserver.com/081c09225f5f0932d5dff03f505f3089.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net|batmanfactor.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net|batmanfactor.com
+@@||js.wpadmngr.com/static/adManager.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net|batmanfactor.com
+@@||a.pub.network/crewbase-net/pubfig.min.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net|batmanfactor.com
+@@||scripts.cleverwebserver.com/081c09225f5f0932d5dff03f505f3089.js$script,domain=shinchu.net|shinbhu.net|crewbase.net|crewus.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|allcryptoz.net|batmanfactor.com
 @@||request-global.czilladx.com^$xhr,domain=faucetcrypto.net|freesolana.top
 @@||cleverwebserver.com^$domain=uniqueten.net|ultraten.net|thumb8.net|thumb9.net|shinchu.net|shinbhu.net|crewbase.net|crewus.net|topcryptoz.net|allcryptoz.net|blog.wiki-topia.com|btc25.org|homeairquality.org|promo-visits.site|wiki-topia.com|blog.coinsvalue.net|blog.coinsvalue.net
 @@/fuckadblock.js$script,domain=shinchu.net|shinbhu.net|blog.wiki-topia.com|btc25.org|homeairquality.org|mdn.lol|claimprocoin.com|claimlite.club|anhautobot.com|blog.wiki-topia.com|promo-visits.site|wiki-topia.com|blog.coinsvalue.net
-@@||banner.infoey.com/adbanner.png$image,domain=allcryptoz.net|crewbase.net|crewus.net|shinbhu.net|shinchu.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net
-allcryptoz.net,crewbase.net,crewus.net,shinbhu.net,shinchu.net,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net##+js(nosiif, console)
+@@||banner.infoey.com/adbanner.png$image,domain=allcryptoz.net|crewbase.net|crewus.net|shinbhu.net|shinchu.net|thumb8.net|thumb9.net|topcryptoz.net|ultraten.net|uniqueten.net|batmanfactor.com
+allcryptoz.net,crewbase.net,crewus.net,shinbhu.net,shinchu.net,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net|batmanfactor.com##+js(nosiif, console)
 
 ! 2023-03-01 https://adarima.org
 adarima.org##.adb-top > center
